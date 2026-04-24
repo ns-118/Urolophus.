@@ -1,0 +1,15 @@
+GenomeScope version 2.0
+input file = GT16699.meryl.hist
+output directory = genomescope
+p = 2
+k = 31
+TESTING set to TRUE
+
+property                      min               max               
+Homozygous (aa)               99.3564%          99.3941%          
+Heterozygous (ab)             0.605894%         0.643552%         
+Genome Haploid Length         5,936,191,204 bp  5,953,926,932 bp  
+Genome Repeat Length          3,502,772,905 bp  3,513,238,240 bp  
+Genome Unique Length          2,433,418,299 bp  2,440,688,693 bp  
+Model Fit                     43.9356%          98.3501%          
+Read Error Rate               0.0929717%        0.0929717%        
