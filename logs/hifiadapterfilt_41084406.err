@@ -1,0 +1,4 @@
+rm: cannot remove 'all.temp_file_list': No such file or directory
+BLAST Database error: No alias or index file found for nucleotide database [/pacbio_vectors_db] in search path [/scratch/pawsey0964/nstratmann/pauci/data/raw/hifi::]
+BLAST Database error: No alias or index file found for nucleotide database [/pacbio_vectors_db] in search path [/scratch/pawsey0964/nstratmann/pauci/data/raw/hifi::]
+slurmstepd: error: *** JOB 41084406 ON nid002822 CANCELLED AT 2026-04-07T15:19:10 DUE TO TIME LIMIT ***

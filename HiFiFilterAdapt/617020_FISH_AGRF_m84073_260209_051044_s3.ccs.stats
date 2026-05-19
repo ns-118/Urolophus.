@@ -1,0 +1,9 @@
+Started on Sat Apr 18 16:59:40 AWST 2026
+For the 617020_FISH_AGRF_m84073_260209_051044_s3.ccs dataset:
+Removing reads containing adapters a minimum of 44 bp in length and 97% match.
+
+Number of ccs reads: 4040170
+Number of adapter contaminated ccs reads: 5 (0.000123757% of total)
+Number of ccs reads retained: 4040165 (99.9999% of total)
+
+Finished on Sat Apr 18 19:04:33 AWST 2026

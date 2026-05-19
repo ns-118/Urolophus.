@@ -1,0 +1,1 @@
+FATAL:   While checking container encryption: could not open image /scratch/pawsey0964/containers/hifiadapterfilt_v2.0.sif: failed to retrieve path for /scratch/pawsey0964/containers/hifiadapterfilt_v2.0.sif: lstat /scratch/pawsey0964/containers: no such file or directory

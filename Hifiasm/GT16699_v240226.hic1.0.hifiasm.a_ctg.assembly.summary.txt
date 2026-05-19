@@ -1,0 +1,150 @@
+Expected genome size	6900000000
+# scaffolds	43030
+Total scaffold length	6524336566
+Average scaffold length	151622.97
+Scaffold N50	610938
+Scaffold auN	824998.40
+Scaffold L50	2976
+Scaffold NG50	565352
+Scaffold auNG	780082.21
+Scaffold LG50	3295
+Largest scaffold	11327723
+Smallest scaffold	1441
+# contigs	43030
+Total contig length	6524336566
+Average contig length	151622.97
+Contig N50	610938
+Contig auN	824998.40
+Contig L50	2976
+Contig NG50	565352
+Contig auNG	780082.21
+Contig LG50	3295
+Largest contig	11327723
+Smallest contig	1441
+# gaps in scaffolds	0
+Total gap length in scaffolds	0
+Average gap length in scaffolds	0.00
+Gap N50 in scaffolds	0
+Gap auN in scaffolds	0.00
+Gap L50 in scaffolds	0
+Largest gap in scaffolds	0
+Smallest gap in scaffolds	0
+Base composition (A:C:G:T)	1825969586:1425296379:1438627407:1834443194
+GC content %	43.90
+# soft-masked bases	0
+# segments	43030
+Total segment length	6524336566
+Average segment length	151622.97
+# gaps	0
+# paths	43030
+# edges	68000
+Average degree	1.58
+# connected components	4237
+Largest connected component length	21369534
+# dead ends	42644
+# disconnected components	16713
+Total length disconnected components	1104429893
+# separated components	20950
+# bubbles	5051
+# circular segments	5
+# circular paths	5
+Scaffold N10	1774859
+Scaffold N20	1280219
+Scaffold N30	996054
+Scaffold N40	776657
+Scaffold N50	610938
+Scaffold N60	469922
+Scaffold N70	334768
+Scaffold N80	196592
+Scaffold N90	46363
+Scaffold N100	1441
+Scaffold L10	273
+Scaffold L20	706
+Scaffold L30	1285
+Scaffold L40	2027
+Scaffold L50	2976
+Scaffold L60	4198
+Scaffold L70	5844
+Scaffold L80	8341
+Scaffold L90	14620
+Scaffold L100	43030
+Scaffold NG10	1740837
+Scaffold NG20	1243575
+Scaffold NG30	956920
+Scaffold NG40	734199
+Scaffold NG50	565352
+Scaffold NG60	419717
+Scaffold NG70	282891
+Scaffold NG80	128910
+Scaffold NG90	24063
+Scaffold NG100	0
+Scaffold LG10	294
+Scaffold LG20	766
+Scaffold LG30	1401
+Scaffold LG40	2226
+Scaffold LG50	3295
+Scaffold LG60	4705
+Scaffold LG70	6699
+Scaffold LG80	10212
+Scaffold LG90	25788
+Scaffold LG100	0
+Contig N10	1774859
+Contig N20	1280219
+Contig N30	996054
+Contig N40	776657
+Contig N50	610938
+Contig N60	469922
+Contig N70	334768
+Contig N80	196592
+Contig N90	46363
+Contig N100	1441
+Contig L10	273
+Contig L20	706
+Contig L30	1285
+Contig L40	2027
+Contig L50	2976
+Contig L60	4198
+Contig L70	5844
+Contig L80	8341
+Contig L90	14620
+Contig L100	43030
+Contig NG10	1740837
+Contig NG20	1243575
+Contig NG30	956920
+Contig NG40	734199
+Contig NG50	565352
+Contig NG60	419717
+Contig NG70	282891
+Contig NG80	128910
+Contig NG90	24063
+Contig NG100	0
+Contig LG10	294
+Contig LG20	766
+Contig LG30	1401
+Contig LG40	2226
+Contig LG50	3295
+Contig LG60	4705
+Contig LG70	6699
+Contig LG80	10212
+Contig LG90	25788
+Contig LG100	0
+Gap N10	0
+Gap N20	0
+Gap N30	0
+Gap N40	0
+Gap N50	0
+Gap N60	0
+Gap N70	0
+Gap N80	0
+Gap N90	0
+Gap N100	0
+Gap L10	0
+Gap L20	0
+Gap L30	0
+Gap L40	0
+Gap L50	0
+Gap L60	0
+Gap L70	0
+Gap L80	0
+Gap L90	0
+Gap L100	0

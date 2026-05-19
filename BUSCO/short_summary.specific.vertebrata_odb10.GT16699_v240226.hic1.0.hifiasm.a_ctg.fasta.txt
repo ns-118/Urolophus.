@@ -1,0 +1,31 @@
+# BUSCO version is: 5.6.1 
+# The lineage dataset is: vertebrata_odb10 (Creation date: 2024-01-08, number of genomes: 67, number of BUSCOs: 3354)
+# Summarized benchmarking in BUSCO notation for file /scratch/pawsey1348/nstratmann/pauci/03-scaff/GT16699_v240226.hic1.0.hifiasm.a_ctg.fasta
+# BUSCO was run in mode: euk_genome_min
+# Gene predictor used: miniprot
+
+	***** Results: *****
+
+	C:86.1%[S:81.7%,D:4.4%],F:7.3%,M:6.6%,n:3354,E:13.5%	   
+	2889	Complete BUSCOs (C)	(of which 389 contain internal stop codons)		   
+	2741	Complete and single-copy BUSCOs (S)	   
+	148	Complete and duplicated BUSCOs (D)	   
+	245	Fragmented BUSCOs (F)			   
+	220	Missing BUSCOs (M)			   
+	3354	Total BUSCO groups searched		   
+
+Assembly Statistics:
+	43030	Number of scaffolds
+	43030	Number of contigs
+	6524336566	Total length
+	0.000%	Percent gaps
+	610 KB	Scaffold N50
+	610 KB	Contigs N50
+
+
+Dependencies and versions:
+	hmmsearch: 3.3
+	bbtools: 39.01
+	miniprot_index: 0.12-r237
+	miniprot_align: 0.12-r237
+	busco: 5.6.1

@@ -1,0 +1,20 @@
+=========================================
+Job started on Tue Apr  7 11:18:51 AM AWST 2026
+SLURM_JOB_ID = 41084406
+=========================================
+Sample: pauci
+Processed dir: /scratch/pawsey0964/nstratmann/pauci/data/processed
+Stats dir:     /scratch/pawsey0964/nstratmann/pauci/stats/hifiadapterfilt
+617020_FISH_AGRF_m84073_260120_033007_s4.ccs.bam
+617020_FISH_AGRF_m84073_260123_051846_s1.ccs.bam
+617020_FISH_AGRF_m84073_260209_051044_s3.ccs.bam
+Converting 617020_FISH_AGRF_m84073_260120_033007_s4.ccs.bam to 617020_FISH_AGRF_m84073_260120_033007_s4.ccs.fastq on Tue Apr  7 11:18:52 AWST 2026
+Converting 617020_FISH_AGRF_m84073_260120_033007_s4.ccs.bam to 617020_FISH_AGRF_m84073_260120_033007_s4.ccs.fasta on Tue Apr  7 11:18:52 AWST 2026.
+Identifying reads in 617020_FISH_AGRF_m84073_260120_033007_s4.ccs.bam with adapter contamination on Tue Apr  7 12:18:42 AWST 2026.
+Creating blocklist for 617020_FISH_AGRF_m84073_260120_033007_s4.ccs.bam on Tue Apr  7 12:18:43 AWST 2026.
+Removing adapter contaminated reads from 617020_FISH_AGRF_m84073_260120_033007_s4.ccs.bam on Tue Apr  7 12:18:43 AWST 2026.
+Converting 617020_FISH_AGRF_m84073_260123_051846_s1.ccs.bam to 617020_FISH_AGRF_m84073_260123_051846_s1.ccs.fastq on Tue Apr  7 12:44:03 AWST 2026
+Converting 617020_FISH_AGRF_m84073_260123_051846_s1.ccs.bam to 617020_FISH_AGRF_m84073_260123_051846_s1.ccs.fasta on Tue Apr  7 12:44:03 AWST 2026.
+Identifying reads in 617020_FISH_AGRF_m84073_260123_051846_s1.ccs.bam with adapter contamination on Tue Apr  7 14:46:36 AWST 2026.
+Creating blocklist for 617020_FISH_AGRF_m84073_260123_051846_s1.ccs.bam on Tue Apr  7 14:46:37 AWST 2026.
+Removing adapter contaminated reads from 617020_FISH_AGRF_m84073_260123_051846_s1.ccs.bam on Tue Apr  7 14:46:37 AWST 2026.
