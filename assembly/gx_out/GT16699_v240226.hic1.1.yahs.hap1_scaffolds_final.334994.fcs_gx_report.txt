@@ -1,0 +1,3 @@
+##[["FCS genome report", 2, 1], {"git-rev": "v0.5.5", "run-date": "Thu Jul  2 07:23:15 2026", "db": {"build-date": "2023-01-24", "seqs": 3025824, "Gbp": 709.264}, "run-info": {"agg-cvg": 0.20562, "asserted-div": "anml:fishes", "inferred-primary-divs": ["anml:fishes"], "corrected-primary-divs": ["anml:fishes"], "genome-hash": "2876cbbba302a5d3"}}]
+#seq_id	start_pos	end_pos	seq_len	action	div	agg_cont_cov	top_tax_name
+scaffold_1100	1	32386	32386	EXCLUDE	anml:worms	64	Schistosoma mansoni

@@ -1,0 +1,139 @@
+Expected genome size	595000000
+# scaffolds	1534
+Total scaffold length	6763399070
+Average scaffold length	4408995.48
+Scaffold N50	220450280
+Scaffold auN	224657039.36
+Scaffold L50	11
+Scaffold NG50	493047484
+Scaffold auNG	2553689430.41
+Scaffold LG50	1
+Largest scaffold	493047484
+Smallest scaffold	8423
+# contigs	5041
+Total contig length	6763048370
+Average contig length	1341608.48
+Contig N50	3629946
+Contig auN	5104876.54
+Contig L50	512
+Contig NG50	14240610
+Contig auNG	58024415.11
+Contig LG50	15
+Largest contig	34260754
+Smallest contig	8423
+# gaps in scaffolds	3507
+Total gap length in scaffolds	350700
+Average gap length in scaffolds	100.00
+Gap N50 in scaffolds	100
+Gap auN in scaffolds	100.00
+Gap L50 in scaffolds	1754
+Largest gap in scaffolds	100
+Smallest gap in scaffolds	100
+Base composition (A:C:G:T)	1889818987:1493789111:1482761720:1896678552
+GC content %	44.01
+# soft-masked bases	0
+# segments	5041
+Total segment length	6763048370
+Average segment length	1341608.48
+# gaps	3507
+# paths	1534
+Scaffold N10	416828310
+Scaffold N20	356788734
+Scaffold N30	297076331
+Scaffold N40	279394912
+Scaffold N50	220450280
+Scaffold N60	174979039
+Scaffold N70	130438791
+Scaffold N80	71792468
+Scaffold N90	3339073
+Scaffold N100	8423
+Scaffold L10	2
+Scaffold L20	4
+Scaffold L30	6
+Scaffold L40	8
+Scaffold L50	11
+Scaffold L60	14
+Scaffold L70	18
+Scaffold L80	25
+Scaffold L90	112
+Scaffold L100	1534
+Scaffold NG10	493047484
+Scaffold NG20	493047484
+Scaffold NG30	493047484
+Scaffold NG40	493047484
+Scaffold NG50	493047484
+Scaffold NG60	493047484
+Scaffold NG70	493047484
+Scaffold NG80	493047484
+Scaffold NG90	416828310
+Scaffold NG100	416828310
+Scaffold LG10	1
+Scaffold LG20	1
+Scaffold LG30	1
+Scaffold LG40	1
+Scaffold LG50	1
+Scaffold LG60	1
+Scaffold LG70	1
+Scaffold LG80	1
+Scaffold LG90	2
+Scaffold LG100	2
+Contig N10	10683593
+Contig N20	7784102
+Contig N30	6054374
+Contig N40	4678943
+Contig N50	3629946
+Contig N60	2826396
+Contig N70	2119921
+Contig N80	1415061
+Contig N90	749786
+Contig N100	8423
+Contig L10	46
+Contig L20	122
+Contig L30	221
+Contig L40	349
+Contig L50	512
+Contig L60	725
+Contig L70	1001
+Contig L80	1390
+Contig L90	2045
+Contig L100	5041
+Contig NG10	33277240
+Contig NG20	27618160
+Contig NG30	17531892
+Contig NG40	16084874
+Contig NG50	14240610
+Contig NG60	13417094
+Contig NG70	12727550
+Contig NG80	11955376
+Contig NG90	11773334
+Contig NG100	11354372
+Contig LG10	2
+Contig LG20	4
+Contig LG30	7
+Contig LG40	11
+Contig LG50	15
+Contig LG60	19
+Contig LG70	24
+Contig LG80	29
+Contig LG90	34
+Contig LG100	39
+Gap N10	100
+Gap N20	100
+Gap N30	100
+Gap N40	100
+Gap N50	100
+Gap N60	100
+Gap N70	100
+Gap N80	100
+Gap N90	100
+Gap N100	100
+Gap L10	351
+Gap L20	702
+Gap L30	1053
+Gap L40	1403
+Gap L50	1754
+Gap L60	2105
+Gap L70	2455
+Gap L80	2806
+Gap L90	3157
+Gap L100	3507
